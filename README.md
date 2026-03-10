@@ -16,6 +16,7 @@ Este proyecto analiza los factores determinantes detrás de la pérdida de clien
 ## 🔍 Hallazgos Principales (Insights)
 
 - La mayor tasa de abandono ocurre durante el primer mes.
+- Los Clientes con menos de 12 meses presentan el mayor riesgo de abandono
 - Los contratos mes a mes son el principal predictor de fuga.
 - Los adultos mayores tienen una alta tasa de abandono
 
