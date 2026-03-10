@@ -30,11 +30,12 @@ Este proyecto analiza los factores determinantes detrás de la pérdida de clien
 ---
 
 ## 💡 Recomendaciones Estratégicas
-1. Fortalecer la experiencia inicial del cliente
+**1. Fortalecer la experiencia inicial del cliente**
 Dado que el abandono se concentra en los primeros meses, es fundamental reforzar las estrategias de acompañamiento y fidelización durante la etapa inicial de la relación con el cliente, asegurando que comprenda el funcionamiento del servicio y perciba valor desde el comienzo.
 
-2. Incentivar métodos de pago y contratos de mayor estabilidad
+**2. Incentivar métodos de pago y contratos de mayor estabilidad**
 Se recomienda promover métodos de pago automáticos y modalidades de contratación de mayor duración, ya que estos mecanismos pueden contribuir a reducir la fricción en el proceso de pago y aumentar la permanencia de los clientes.
+
 ---
 
 ## 🛠️ Tecnologías y Librerías
