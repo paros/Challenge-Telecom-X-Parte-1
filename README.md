@@ -1,9 +1,11 @@
 # Challenge-Telecom-X-Parte-1
 
 ## 📊 TelecomX: Análisis de Evasión de Clientes (Churn)
+La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
+
 La empresa TelecomX enfrenta una tasa crítica de cancelaciones del 26.58%. 
 
-Este proyecto analiza los factores determinantes detrás de la pérdida de clientes para transformar datos en estrategias de retención accionables.
+Este proyecto analiza los factores determinantes detrás de la pérdida de clientes y poder generar modelos predictivos y desarrollar estrategias para reducir la evasión.
 
 ## 🎯 Objetivos del Proyecto
 Identificar patrones y factores de riesgo asociados al abandono.
