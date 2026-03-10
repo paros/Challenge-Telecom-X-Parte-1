@@ -4,7 +4,7 @@ Autor: Patricia Aros
 ## 📊 TelecomX: Análisis de Evasión de Clientes (Churn)
 La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
 
-La empresa TelecomX enfrenta una tasa crítica de cancelaciones del 26.58%. 
+La empresa TelecomX enfrenta una **tasa crítica de cancelaciones del 26.58%**. 
 
 Este proyecto analiza los factores determinantes detrás de la pérdida de clientes y poder generar modelos predictivos y desarrollar estrategias para reducir la evasión.
 
