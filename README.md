@@ -7,11 +7,13 @@ La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los fac
 La empresa TelecomX enfrenta una tasa crítica de cancelaciones del 26.58%. 
 
 Este proyecto analiza los factores determinantes detrás de la pérdida de clientes y poder generar modelos predictivos y desarrollar estrategias para reducir la evasión.
+---
 
 ## 🎯 Objetivos del Proyecto
 1. Identificar patrones y factores de riesgo asociados al abandono.
 2. Proporcionar factores relevantes para la toma de decisiones.
 3. Realizar recomendaciones para generar acciones de retención.
+---
 
 ## 🔍 Hallazgos Principales (Insights)
 
@@ -19,10 +21,12 @@ Este proyecto analiza los factores determinantes detrás de la pérdida de clien
 - Los Clientes con menos de 12 meses presentan el mayor riesgo de abandono
 - Los contratos mes a mes son el principal predictor de fuga.
 - Los adultos mayores tienen una alta tasa de abandono
+---
 
 ## 🔌 Factores de Servicio y Tecnología
 - Fibra Óptica: los usuarios de este servicio presentan la mayor deserción, sugiriendo insatisfacción con el precio o estabilidad técnica.
 - Métodos de Pago: El uso de Cheque Electrónico está altamente correlacionado con el abandono.
+---
 
 ## 💡 Recomendaciones Estratégicas
 1. Fortalecer la experiencia inicial del cliente
@@ -30,11 +34,12 @@ Dado que el abandono se concentra en los primeros meses, es fundamental reforzar
 
 2. Incentivar métodos de pago y contratos de mayor estabilidad
 Se recomienda promover métodos de pago automáticos y modalidades de contratación de mayor duración, ya que estos mecanismos pueden contribuir a reducir la fricción en el proceso de pago y aumentar la permanencia de los clientes.
+---
 
 ## 🛠️ Tecnologías y Librerías
-- Categoría: Herramientas
+
 - Lenguaje: Python
 - Extracción: requests
 - Análisis de Datos:	pandas
-- Visualización:	matplotlib, seaborn, plotly.express
+- Visualización:	matplotlib
 - Entorno:	Google Colab
