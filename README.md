@@ -32,9 +32,9 @@ Dado que el abandono se concentra en los primeros meses, es fundamental reforzar
 Se recomienda promover métodos de pago automáticos y modalidades de contratación de mayor duración, ya que estos mecanismos pueden contribuir a reducir la fricción en el proceso de pago y aumentar la permanencia de los clientes.
 
 ## 🛠️ Tecnologías y Librerías
-Categoría: Herramientas
-Lenguaje: Python
-Extracción: requests
-Análisis de Datos:	pandas
-Visualización:	matplotlib, seaborn, plotly.express
-Entorno:	Google Colab
+- Categoría: Herramientas
+- Lenguaje: Python
+- Extracción: requests
+- Análisis de Datos:	pandas
+- Visualización:	matplotlib, seaborn, plotly.express
+- Entorno:	Google Colab
