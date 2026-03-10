@@ -9,9 +9,9 @@ La empresa TelecomX enfrenta una tasa crítica de cancelaciones del 26.58%.
 Este proyecto analiza los factores determinantes detrás de la pérdida de clientes y poder generar modelos predictivos y desarrollar estrategias para reducir la evasión.
 
 ## 🎯 Objetivos del Proyecto
-Identificar patrones y factores de riesgo asociados al abandono.
-Proporcionar factores relevantes para la toma de decisiones.
-Realizar recomendaciones para generar acciones de retención.
+1. Identificar patrones y factores de riesgo asociados al abandono.
+2. Proporcionar factores relevantes para la toma de decisiones.
+3. Realizar recomendaciones para generar acciones de retención.
 
 ## 🔍 Hallazgos Principales (Insights)
 
